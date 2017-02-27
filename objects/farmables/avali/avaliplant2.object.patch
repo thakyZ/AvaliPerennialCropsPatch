@@ -1,0 +1,6 @@
+[{
+    "op": "add",
+    "path": "/stages/2/resetToStage",
+    "value": 0
+  }
+]
