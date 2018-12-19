@@ -1,7 +1,7 @@
 Added support for Avali crops from the Triage mod,
 And adds support for the crop(s) added by, Avali Augments And Assorments: Revisited.
 
-[IMG]https://raw.githubusercontent.com/thakyZ/AvaliPerennialCropsPatch/media/image0.gif[/IMG]
+[ATTACH=full]208094[/ATTACH]
 
 [B]Github:[/B] [URL]https://github.com/thakyZ/AvaliPerennialCropsPatch[/URL]
 [B]Steam Workshop:[/B] [URL]https://steamcommunity.com/sharedfiles/filedetails/?id=869900472[/URL]
