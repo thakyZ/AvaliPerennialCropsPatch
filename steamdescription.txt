@@ -1,7 +1,10 @@
-Perennial Crops Compatibility Patch for Avali (Triage) Race Mod
+[b]Perennial Crops Compatibility Patch for Avali (Triage) Race Mod[/b]
 
-Steam Download [url=https://steamcommunity.com/sharedfiles/filedetails/?id=869900472]here[/url]
-Non-Steam Download [url=https://community.playstarbound.com/resources/avali-perennial-crops.5558/]here[/url]
+Added support for Avali crops from the Triage mod,
+And adds support for the crop(s) added by, Avali Augments And Assorments: Revisited.
+
+[b]Github:[/b] [url]https://github.com/thakyZ/AvaliPerennialCropsPatch[/url]
+[b]Chucklefish Forums:[/b] [url]https://community.playstarbound.com/resources/avali-perennial-crops.5558/[/url]
 
 Fully compatible with Frackin' Universe
 [img]https://i.imgur.com/1TfuM5F.png[/img]

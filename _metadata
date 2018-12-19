@@ -1,7 +1,7 @@
 {
   "friendlyName": "Avali Perennial Crops",
   "name": "AvaliPerennialCrops",
-  "description": "Perennial Crops Compatibility Patch for Avali (Triage) Race Mod\n\nSteam Download [url=https://steamcommunity.com/sharedfiles/filedetails/?id=869900472]here[/url]\nNon-Steam Download [url=https://community.playstarbound.com/resources/avali-perennial-crops.5558/]here[/url]\n\nFully compatible with Frackin' Universe\n[img]https://i.imgur.com/1TfuM5F.png[/img]",
+  "description": "^#EA9931;Perennial Crops Compatibility Patch for Avali (Triage) Race Mod^#FFFFFF;\n\nAdded support for Avali crops from the Triage mod,\nAnd adds support for the crop(s) added by, Avali Augments And Assorments: Revisited.\n\n^#A451C4;Github:^#FFFFFF; ^#9BBA3D;https://github.com/thakyZ/AvaliPerennialCropsPatch^#FFFFFF;\n^#A451C4;Steam Workshop:^#FFFFFF; ^#9BBA3D;https://steamcommunity.com/sharedfiles/filedetails/?id=869900472^#FFFFFF;\n^#A451C4;Chucklefish Forums:^#FFFFFF; ^#9BBA3D;https://community.playstarbound.com/resources/avali-perennial-crops.5558/^#FFFFFF;^#FFFFFF;\n\nFully compatible with Frackin' Universe\n^#9BBA3D;https://i.imgur.com/1TfuM5F.png^#FFFFFF;",
   "author": "thakyZ",
   "version": "1.0.1",
   "includes": [ "Avali Augments And Assorments: Revisited", "PerennialCrops", "Avali" ],
