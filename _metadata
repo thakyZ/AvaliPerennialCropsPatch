@@ -4,7 +4,7 @@
   "description": "Perennial Crops Compatibility Patch for Avali (Triage) Race Mod\n\nSteam Download [url=https://steamcommunity.com/sharedfiles/filedetails/?id=869900472]here[/url]\nNon-Steam Download [url=https://community.playstarbound.com/resources/avali-perennial-crops.5558/]here[/url]\n\nFully compatible with Frackin' Universe\n[img]https://i.imgur.com/1TfuM5F.png[/img]",
   "author": "thakyZ",
   "version": "1.0.1",
-  "includes": [ "Craftable Seeds", "PerennialCrops", "Avali" ],
+  "includes": [ "Avali Augments And Assorments: Revisited", "PerennialCrops", "Avali" ],
   "link": "steam://url/CommunityFilePage/869900472",
   "steamContentId": "869900472"
 }
